@@ -1,5 +1,5 @@
 // Button Array
-var topics = [];
+var topics = ['basketball','remember the titans', 'football', 'space jam', 'jordans',];
 
 // Button Creation
 
@@ -20,7 +20,7 @@ var app = {
 
     newButton: function (topics) {
         $("#buttons").append(
-            "<button type='button' class='btn btn-link movieBtn' data-movie='" +
+            "<button type='button' class='btn btn-primary movieBtn mr-2' data-movie='" +
             topics +
             "'>" +
             topics +
