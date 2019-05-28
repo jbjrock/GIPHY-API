@@ -1,0 +1,36 @@
+#bg {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+
+}
+
+.searchReq {
+    color: red;
+    font-size: 40px;
+}
+
+.jumbotron {
+    background-color: grey;
+    color: red;
+}
+
+#buttons {
+
+    font-weight: 25px;
+}
+
+
+input {
+    font-size: 20px;
+    width: 75%;
+}
+
+.results {
+    margin-top: 30px;
+}
