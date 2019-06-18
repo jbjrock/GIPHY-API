@@ -1,6 +1,7 @@
 # GIPHY-API
 Instructions
 
+https://jbjrock.github.io/GIPHY-API/
 
 
 Before you can make any part of your site work, you need to create an array of strings, each one related to a topic that interests you. Save it to a variable called topics.
