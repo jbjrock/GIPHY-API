@@ -1,5 +1,5 @@
 // Button Array
-var topics = ['home alone', 'the lion king', 'toy story', 'the sandlot', 'clueless', 'terminator', 'titanic'];
+var topics = ['lebron james', 'space jam', 'waterboy', 'the sandlot', 'above the rim', 'love & basketball', 'longest yard'];
 
 
 
